@@ -1,6 +1,6 @@
 # Recipes API
 
-API built with Lumen Framework.
+API built with Lumen Framework. I have chosen Lumen because is a powerful Framework and provides tools to develop fast.
 
 As I development environment I used virtualbox and vagrant with the box https://box.scotch.io/.
 
@@ -23,3 +23,6 @@ As I development environment I used virtualbox and vagrant with the box https://
 * Install composer dependencies
 * Create .env file from.env.sample
 * Open http://recipes.scotchbox.local/api/v1/recipes in the browser and you should see a json with the recipes list from the csv file.
+
+## How to use
+Check api.doc for more details about the API.
